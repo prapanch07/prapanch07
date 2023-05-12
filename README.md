@@ -1,8 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="150"/>
-</div>
 <div align="center">
 <h1>Hi there 👋</h1>
+  <h2>I am Prapanch</h2>
+  <h4>Let's Connect<//h4>
+  div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/prapanch-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_mr_offwhite/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="IG Badge"/>
+  </a>
+</div>
 </div>
 <h4>:man_technologist: About Me :</h4>
 
