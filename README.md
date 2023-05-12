@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Hi there 👋</h1>
-  <h2>I am Prapanch</h2>
+<h1>Hi there 👋 <br><br> <span>I am Prapanch</span></h2>
   <h4>Let's Connect<//h4>
-  div id="badges" align="center">
+  <br><br>
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prapanch-j/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
