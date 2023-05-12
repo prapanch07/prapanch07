@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="150"/>
 </div>
 <div align="center">
-### Hi there 👋
+<h1>Hi there 👋</h1>
 </div>
 <h4>:man_technologist: About Me :</h4>
 
