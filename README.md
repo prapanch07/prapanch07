@@ -14,7 +14,7 @@
 <h4>:man_technologist: About Me :</h4>
 
 - 🔭 I’m currently working on : Freelance Flutter Projects
-- 🌱 I’m currently learning : Flutter
+- 🌱 I’m currently learning : Node -js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/prapanch-j/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
